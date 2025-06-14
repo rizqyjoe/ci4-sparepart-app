@@ -15,6 +15,19 @@ A simple monolith CRUD application built using **CodeIgniter 4**, integrated wit
 
 ---
 
+## 🖼️ Screenshots
+
+### 📋 Daftar Spareparts
+![Index Page](public/screenshots/index.jpg)
+
+### ➕ Tambah Sparepart
+![Create Page](public/screenshots/create.jpg)
+
+### ✏️ Edit Sparepart
+![Edit Page](public/screenshots/edit.jpg)
+
+---
+
 ## 🏗️ Tech Stack
 
 * **Framework**: CodeIgniter 4
