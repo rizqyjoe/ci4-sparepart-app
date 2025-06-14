@@ -18,13 +18,13 @@ A simple monolith CRUD application built using **CodeIgniter 4**, integrated wit
 ## 🖼️ Screenshots
 
 ### 📋 Daftar Spareparts
-![Index Page](public/screenshots/index.jpg)
+![Index Page](public/screenshots/index.png)
 
 ### ➕ Tambah Sparepart
-![Create Page](public/screenshots/create.jpg)
+![Create Page](public/screenshots/create.png)
 
 ### ✏️ Edit Sparepart
-![Edit Page](public/screenshots/edit.jpg)
+![Edit Page](public/screenshots/edit.png)
 
 ---
 
