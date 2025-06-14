@@ -108,8 +108,8 @@ class Database extends Config
     public array $default = [
         'DSN' => '',
         'hostname' => 'localhost',
-        'username' => 'sa',
-        'password' => 'sa123#',
+        'username' => '',
+        'password' => '',
         'database' => 'sparepart_db',
         'schema' => 'dbo',
         'DBDriver' => 'SQLSRV',
